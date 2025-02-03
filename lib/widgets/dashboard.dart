@@ -35,7 +35,7 @@ class _ECommerceState extends State<ECommerce> {
                   title: Text("عمر إسماعيل العمري"),
                   subtitle: Text("عميل"),
                   leading: CircleAvatar(
-                    child: Icon(Icons.person),
+                    child: Image.asset('assets/images/aziz.jpg'),
                   ),
                 ),
               ),
